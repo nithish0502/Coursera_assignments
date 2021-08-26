@@ -16,7 +16,8 @@ body {
 h1 {
     margin-bottom: 15px;
     text-align: center;
-    color: #ff4532;
+    color: darkgreen;
+    font-family: monospace;
     font-size: 50px;
 }
 
@@ -35,7 +36,9 @@ h1 {
     float: right;
     margin-right: 36px;
     margin-top: 0px;
+    font-family: "Times New Roman", cursive, sans-serif;
     font-weight: bold;
+    font-size: 20px;
     position: relative;
 }
 
@@ -44,10 +47,11 @@ h1 {
     width: 90%;
     height: auto;
     margin: 2.5%;
-    color: aliceblue;
+    color: darkblue;
     font-size: 25px;
     padding: 2%;
     padding-top: 55px;
+    background-color: rgb(215, 255, 255);
 }
 
 .title1 {
